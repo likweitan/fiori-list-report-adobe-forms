@@ -1,5 +1,8 @@
 ## Application Details
 
+![image](https://github.com/user-attachments/assets/78920739-9982-4469-9dd6-47d922ea5b0f)
+
+
 |                                                                                            |
 | ------------------------------------------------------------------------------------------ |
 | **Generation Date and Time**<br>Thu Aug 15 2024 10:09:51 GMT+0800 (Malaysia Time)          |
